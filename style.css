@@ -1,0 +1,111 @@
+html {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://as1.ftcdn.net/v2/jpg/01/65/29/86/1000_F_165298664_08W1RoV2H0SWsBjTqzdBUgtMPNPboyrf.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: white;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.url-text {
+  border: 10;
+  color: #ffffff;
+  background: #da1e26;
+  font-weight: bold;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.title-name {
+	font-size 16px;
+	text-align: center;
+	color: white;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.programer {
+  color: whitesmoke;
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+  font-size: 15px;
+}
+
+.logo-linkedin {
+  width: 35px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.logo-github {
+  fill: white;
+  width: 40px;
+  heigth: 40px;
+  position: absolute;
+  bottom: 10px;
+  left: 60px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  background: #da1e26;
+  font-weight: bold;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#poster {
+  display: inline-block;
+	margin: 5px;
+}
+
+img {
+  max-height: 250px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+	color: white;
+	
+}
